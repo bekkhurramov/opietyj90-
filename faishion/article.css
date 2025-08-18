@@ -1,0 +1,130 @@
+.container{
+    max-width: 1720px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+
+}
+.article{
+     width: 100%;
+    background: #469264;
+    border-radius: 10px;
+}
+.article__one{
+    font-weight: bold ;
+    font-size: 28px;
+    padding: 21px 0 21px  31px ;
+    color: #fff;
+}
+.manchister{
+    background: #F4F5F7;
+    padding: 10px 20px 20px 10px ;
+
+}
+.manchister__one{
+    font-weight: bold ;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 10px;
+}
+.manchister__two{
+    font-weight: normal ;
+    font-size: 14px;
+    color:#4A4B4C;
+    margin-top: 10px;
+}
+.manchister__three{
+    font-weight: normal ;
+    font-size: 14px;
+    color:#898989;
+    margin-top: 16px;
+}
+.manchister__1{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.manchister__2{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.manchister__3{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.manchister__4{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.article1{
+    width: 100%;
+    background: #469264;
+    border-radius: 10px;
+    margin-top: 514px;
+
+}
+.manchister__tre{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+.manchister-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Default 4 ustun */
+    gap: 15px;
+    margin-top: 30px;
+}
+
+
+.manchister__1,
+.manchister__2,
+.manchister__3,
+.manchister__4,
+.manchister__tre {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* default 4 ustun */
+    gap: 15px;
+}
+
+
+@media (max-width: 1452px) {
+    .manchister__1,
+    .manchister__2,
+    .manchister__3,
+    .manchister__4,
+    .manchister__tre {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+
+@media (max-width: 890px) {
+    .manchister__1,
+    .manchister__2,
+    .manchister__3,
+    .manchister__4,
+    .manchister__tre {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media (max-width: 429px) {
+    .manchister__1,
+    .manchister__2,
+    .manchister__3,
+    .manchister__4,
+    .manchister__tre {
+        grid-template-columns: 1fr;
+    }
+
+
+    .article__one {
+        font-size: 20px;
+        padding: 15px;
+    }
+}

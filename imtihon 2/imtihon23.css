@@ -1,0 +1,554 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Tenor+Sans&display=swap');
+
+.logo {
+    background-color: #FFC017;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo__one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.log {
+    display: flex;
+    gap: 10px;
+    font-size: 17px;
+    font-weight: normal;
+    margin-top: 7px;
+}
+
+.logo2 {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.logo__five {
+    display: flex;
+    gap: 50px;
+}
+
+.logo__two {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+.logo__six {
+    display: flex;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.lod__img {
+    width: 16px;
+    height: 16px;
+    margin-top: 16px;
+}
+
+.lod__but {
+    height: 40px;
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 12px 20px 12px 20px;
+    text-align: center;
+    border-radius: 10px;
+    border: #000000;
+    margin-top: 10px;
+}
+
+.logo2 {
+    display: flex;
+
+}
+
+.main {
+    font-size: 77px;
+    font-weight: bold;
+
+
+}
+
+.main__one {
+    width: 250px;
+    height: 78px;
+    font-size: 17px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.loder {
+    height: 40px;
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    border: #000000;
+    margin-top: 10px;
+
+}
+
+.section__one {
+    display: flex;
+    gap: 100px;
+    margin-top: 70px;
+}
+
+.about {
+    display: flex;
+
+    gap: 75px;
+}
+
+.motion {
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    margin-top: 23px;
+}
+
+.motion__one {
+    width: 300px;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.but__tgree {
+    padding: 10px 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 10px;
+}
+
+.tab {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.ciziq {
+    display: none;
+}
+
+.tab__one {
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.tab__two {
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+    width: 203px;
+}
+
+.tab__three {
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+    width: 193px;
+}
+
+.tab__four {
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+    width: 143px;
+
+}
+
+.but__tgreee {
+    padding: 10px 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 5px;
+}
+
+.section__two {
+    display: flex;
+    gap: 500px;
+}
+
+.asus {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+
+}
+
+.asus__one {
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    padding: 12px 20px;
+    gap: 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 10px;
+}
+
+.ifram {
+    width: 1050px;
+    height: 473px;
+    border-radius: 30px;
+}
+
+.about__twoo {
+    display: flex;
+    gap: 217px;
+}
+
+.real {
+    width: 523px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 32px;
+}
+
+.real__one {
+    font-weight: 400;
+    font-size: 17px;
+    width: 491px;
+    margin-top: 10px;
+}
+
+.love {
+    margin-top: 30px;
+    width: 318px;
+    height: 202px;
+}
+
+.footer {
+    background: #222222;
+}
+
+.footer__one {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 54px;
+}
+
+.fot {
+
+}
+
+.fot__one {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 30px;
+    width: 166px;
+}
+
+.fot__two {
+    width: 287px;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+
+.fot__three {
+    font-weight: 800;
+    font-size: 24px;
+    width: 180px;
+    color: #FFFFFF;
+
+}
+
+.fot__four {
+    width: 358px;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+
+.fot__five {
+    padding: 15px 144px 15px 20px;
+    border-radius: 10px 0 0 10px;
+    border: transparent;
+}
+
+.fot__six {
+    padding: 15px 30px 15px 30px;
+    border-radius: 0 10px 10px 0;
+    background: #FFC017;
+
+}
+
+.about7 {
+    display: none;
+}
+
+.footer__tw {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.imggg {
+    width: 300px;
+    height: 297px;
+
+
+}
+
+.asus__two {
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    padding: 12px 20px;
+    gap: 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 10px;
+}
+
+.asus__thre {
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    padding: 12px 20px;
+    gap: 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 10px;
+}
+
+.asus__four {
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    padding: 12px 20px;
+    gap: 12px;
+    background: #F6F7F8;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 10px;
+}
+
+.tab:hover {
+    color: #FFC017;
+}
+
+.tab__one:hover {
+    color: #FFC017;
+}
+
+.tab__two:hover {
+    color: #FFC017;
+}
+
+.tab__three:hover {
+    color: #FFC017;
+}
+
+.tab__four:hover {
+    color: #FFC017;
+}
+
+.tab__five:hover {
+    color: #FFC017;
+}
+
+.asus__one:hover {
+    background: #FFC017;
+}
+
+.asus__two:hover {
+    background: #FFC017;
+}
+
+.asus__thre:hover {
+    background: #FFC017;
+}
+
+.asus__four:hover {
+    background: #FFC017;
+}
+
+.ab1:hover {
+    background: #FFFFFF;
+    padding: 24px 20px 24px 20px;
+
+}
+
+.real:hover {
+    color: #FFC017;
+}
+
+.real__one:hover {
+    color: #FFC017;
+}
+.resHidden{
+    display: none;
+    .umd{
+        display: none;
+    }
+}
+.responsi{
+    display: none;
+
+}
+.buy{
+    display: none;
+}
+.loder1{
+    display: none;
+}
+.as01{
+    display: none;
+}
+.infor{
+    display: none;
+}
+.ali{
+    display: none;
+}
+.ali001{
+    display: none;
+}
+.muh{
+    display: none;
+}
+@media screen and (max-width: 1100px) {
+    .ciziq{
+        display: block;
+
+    }
+    .logo__six{
+        display: none;
+    }
+    .lod__but {
+        display: none;
+    }
+   .imggg{
+       width: 200px;
+       height: 189px;
+       border-radius:  20px;
+   }
+   .motion {
+       display: none;
+   }
+   .resHidden{
+       display: block;
+   }
+   .about{
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       gap: 0;
+       margin-left: 150px;
+   }
+   .abo11{
+       display: none;
+   }
+   .umd{
+       display: block;
+       margin-left: 500px;
+       margin-top: 120px;
+   }
+   .fot111{
+       display: none;
+   }
+   .fot{
+       margin-left: 150px;
+   }
+   .und{
+       display: none;
+   }
+
+
+
+    .terror{
+     display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+
+
+    }
+    .responsi{
+        display: block;
+        width: 180px;
+        height: 96px;
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+    .buy{
+        display: block;
+        margin-top: 20px;
+        padding: 10px 12px;
+        background: #F6F7F8;
+        border-radius: 10px;
+        border: transparent;
+        margin-top: 5px;
+    }
+    .loder1{
+        height: 40px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 20px 10px 20px;
+        text-align: center;
+        border-radius: 10px;
+        border: #000000;
+        margin-top: 10px;
+        display: block;
+        margin-left: 200px;
+    }
+    .as01{
+        display: block;
+        background: #000;
+        color: #FFFFFF;
+        padding: 20px 20px 20px 20px;
+        margin-top: 109px;
+        border-radius: 10px;
+        border: transparent;
+        margin-left: 500px;
+
+    }
+    .infor{
+        display: block;
+        color: #000;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 67px;
+        margin-left: 500px;
+    }
+    .ali{
+        display: block;
+        font-weight: normal;
+        font-size: 17px;
+        width: 361px;
+        margin-top: 20px;
+        margin-left: 400px;
+    }
+    .ali001{
+        display: block;
+        margin-left: 400px;
+        margin-top: 20px;
+    }
+    .muh {
+        display: block;
+        margin-left: ;
+        margin-top: 30px;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+
+   .footer__one{
+       margin-left: 300px;
+   }
+
+}

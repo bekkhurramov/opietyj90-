@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/faishion/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/img8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faishion/rasm001/potinseal.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fashion/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fashion/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fashion01/sex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fashion01/sex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihon23.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/3 ta chiziqcha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/Photo (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/Photo (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/Photo (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/Vector 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/^.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/boy ota.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/input_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/majlis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/malis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/mallij.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/rustamov.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/tepa kal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imtihon 2/imtihonrasmlari/youtube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +68,7 @@
       <workItem from="1755084771723" duration="2208000" />
       <workItem from="1755169404695" duration="277000" />
       <workItem from="1755358809709" duration="7129000" />
-      <workItem from="1755420388559" duration="33850000" />
+      <workItem from="1755420388559" duration="34139000" />
     </task>
     <servers />
   </component>

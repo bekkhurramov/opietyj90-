@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="" />
+    <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/topup/topup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topup/topup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topup/topupimg/^.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topup/topupimg/alisher 3(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topup/topupimg/bino1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topup/topupimg/hambergermenu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imtihon 2/imtihon23.css" beforeDir="false" afterPath="$PROJECT_DIR$/imtihon 2/imtihon23.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,24 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FRONTEND_01/imtihon 2/imtihonrasmlari&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/FRONTEND_01/topup/topupimg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FRONTEND_01\topup\topupimg" />
       <recent name="D:\FRONTEND_01\imtihon 2\imtihonrasmlari" />
       <recent name="D:\FRONTEND_01\faishion\rasm001" />
       <recent name="D:\FRONTEND_01\tailwand01\rasm02" />
@@ -68,7 +78,7 @@
       <workItem from="1755084771723" duration="2208000" />
       <workItem from="1755169404695" duration="277000" />
       <workItem from="1755358809709" duration="7129000" />
-      <workItem from="1755420388559" duration="34139000" />
+      <workItem from="1755420388559" duration="45275000" />
     </task>
     <servers />
   </component>

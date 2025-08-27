@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/harajatlar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harajatlar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icecream/ice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icecream/ice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/ice2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forsicle/for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forsicle/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +40,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FRONTEND_01/topup/topupimg&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FRONTEND_01/Icecream/iceimg&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,11 +51,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FRONTEND_01\Icecream\iceimg" />
       <recent name="D:\FRONTEND_01\topup\topupimg" />
       <recent name="D:\FRONTEND_01\imtihon 2\imtihonrasmlari" />
       <recent name="D:\FRONTEND_01\faishion\rasm001" />
       <recent name="D:\FRONTEND_01\tailwand01\rasm02" />
-      <recent name="D:\FRONTEND_01\tailwaind\rasm" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -76,7 +81,9 @@
       <workItem from="1755420388559" duration="49271000" />
       <workItem from="1755867022904" duration="7461000" />
       <workItem from="1755998236559" duration="766000" />
-      <workItem from="1756057274147" duration="8145000" />
+      <workItem from="1756057274147" duration="14572000" />
+      <workItem from="1756134413544" duration="19353000" />
+      <workItem from="1756290718085" duration="1239000" />
     </task>
     <servers />
   </component>
@@ -88,7 +95,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/harajatlar/main.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

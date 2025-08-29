@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1ebb5eb-c1d7-4c82-83b7-8589f2b652c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Icecream/ice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Icecream/ice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/ice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/ice2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Icecream/iceimg/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forsicle/for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forsicle/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icecream/ice.css" beforeDir="false" afterPath="$PROJECT_DIR$/Icecream/ice.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icecream/ice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Icecream/ice.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1755998236559" duration="766000" />
       <workItem from="1756057274147" duration="14572000" />
       <workItem from="1756134413544" duration="19353000" />
-      <workItem from="1756290718085" duration="1239000" />
+      <workItem from="1756290718085" duration="11952000" />
     </task>
     <servers />
   </component>
